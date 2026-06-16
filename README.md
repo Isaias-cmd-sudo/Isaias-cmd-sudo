@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy Isaias</h1>
 
-<!--
-**Isaias-cmd-sudo/Isaias-cmd-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Estudiante de Ingeniería de Software con Inteligencia Artificial
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💻 Programador | 🤖 IA | 🌐 Desarrollo Web | 🔒 Ciberseguridad
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+🎓 Estudiante de Ingeniería de Software con IA en SENATI
+
+💡 Interesado en:
+- Inteligencia Artificial
+- Machine Learning
+- Desarrollo Web
+- Ciberseguridad
+- Redes y Servidores
+
+📚 Actualmente desarrollando:
+- Sistema de Recomendación de Películas en Java
+- Página Web para Data Center
+- Portafolio Profesional
+
+---
+
+## 🛠️ Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,mysql,vscode,idea" />
+</p>
+
+---
+
+## 📊 Estadísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaias-cmd-sudo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaias-cmd-sudo&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Proyectos
+
+### 🎬 Sistema de Recomendación de Películas
+Sistema desarrollado en Java utilizando árboles de decisión y algoritmos de recomendación.
+
+### 🖥️ Data Center Web
+Sitio web corporativo para gestión de productos y servicios tecnológicos.
+
+### 🌌 Portafolio Personal
+Portafolio profesional enfocado en Software e Inteligencia Artificial.
+
+---
+
+## 📫 Contacto
+
+📧 isaiaseliazarml2006@gmail.com
+
+🌎 Perú
+
+---
+
+⭐ Gracias por visitar mi perfil.
